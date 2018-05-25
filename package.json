@@ -1,6 +1,6 @@
 {
   "name": "kitchenette",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tasty library for transforming JSON objects.",
   "main": "index.js",
   "scripts": {
